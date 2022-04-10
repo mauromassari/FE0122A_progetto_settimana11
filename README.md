@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+***************************************************************************************
+DA INSTALLARE ATTRAVERSO TERMINALE PRIMA DI CREARE QUALSIASI COSA NEL'APP 
+
+npm i -D json-server json-server-auth
+
+npm i @auth0/angular-jwt
+
+npm install @angular/flex-layout
+
+npm i
+
+npm i concurrently
